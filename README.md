@@ -1,9 +1,9 @@
 # ICPhS-2019
-This repository provides audio files, figures, and powerpoint slides related to the article at ICPhS 2019 “A glottalized tone in Muong (Vietic): a pilot study based on audio and electroglottographic recordings”.  
+This repository provides audio files and figures relate to the article at ICPhS 2019 “A glottalized tone in Muong (Vietic): a pilot study based on audio and electroglottographic recordings”.  
 
 Note that the audio and electroglottographic (EGG) signals were simultaneously recorded into stereo files; as this format may not be convenient for all users, each stereo file was later split into two: one audio file (name ending in _AUD.wav), one EGG file (name ending in _EGG.wav).
 
-The following is short explanation of all available materials here.
+The following is a short explanation of all available materials here.
 
 ## Folder "ExpToneSystem_MinimalSets"
 This folder provides data (sound) and result (figures) of [my Master study](https://dumas.ccsd.cnrs.fr/dumas-01405496/) on the tone system of Muong (Kim Thượng dialect) in 2016. In detail, it contains: 
@@ -18,3 +18,7 @@ This folder contains recordings produced **Figure:** *An example of typical glot
 - That figure was created by Praat using a ['praatfig' script](https://github.com/MinhChauNGUYEN/praatfig).
 - EGG signal was analyzed by [PeakDet](https://github.com/alexis-michaud/egg/tree/master/peakdet_inter). The obtained values of f0 and Oq were drawn on Praat's figure. 
 
+## Folder "AllotonicVariations_MoreExamples"
+For your further reference, this folder offers more recordings of two realizations of the glottalized tone. The same context as example *'salt'* just mentioned above, they are produced by speaker F1, in isolation.
+- **crdo-MTQ_KTM_F1_Creak** shows a sequeces of isolated words which are clearly lapse into creaky voice, sometimes glottal constriction occurs.
+- **crdo-MTQ_KTM_F1_GlottalConstriction** shows an opposite context.
