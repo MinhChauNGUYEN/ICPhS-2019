@@ -1,5 +1,5 @@
 # ICPhS-2019
-This repository provides audio files and figures relate to the article at ICPhS 2019 “A glottalized tone in Muong (Vietic): a pilot study based on audio and electroglottographic recordings”.  
+This repository provides audio files and figures relate to the article at ICPhS 2019:[A glottalized tone in Muong (Vietic): a pilot study based on audio and electroglottographic recordings](https://hal-univ-paris3.archives-ouvertes.fr/hal-02088021/document). 
 
 Note that the audio and electroglottographic (EGG) signals were simultaneously recorded into stereo files; as this format may not be convenient for all users, each stereo file was later split into two: one audio file (name ending in _AUD.wav), one EGG file (name ending in _EGG.wav).
 
